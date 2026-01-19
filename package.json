@@ -32,7 +32,7 @@
 	},
 	"devDependencies": {
 		"@irvingjs/babel-preset-irving": "^5.4.0-alpha.0",
-		"@irvingjs/core": "^5.4.0-alpha.6",
+		"@irvingjs/core": "^6.16.0",
 		"babel-plugin-module-resolver": "^4.0.0",
 		"enzyme": "^3.11.0",
 		"enzyme-adapter-react-16": "^1.15.2",
